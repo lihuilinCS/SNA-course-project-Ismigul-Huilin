@@ -17,5 +17,8 @@ https://sparse.tamu.edu/MaxPlanck/shallow_water1 </br>
 https://sparse.tamu.edu/HB/bcspwr10 </br>
 
 
+The input of OO is .sim file and the input of BL is .mtx file. </br>
+
+In the python file, we convert the .edges file, .mtx file and .txt file to .sim file and .mtx file.
 
 
