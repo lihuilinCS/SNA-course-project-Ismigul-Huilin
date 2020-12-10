@@ -24,4 +24,6 @@ In the python file, we convert the .edges file, .mtx file and .txt file to .sim 
 
 We want to upload all of final data we converted, but they are too huge, the github doesn't allow us to do it.
 
+Anyway, at last, we collect all graphs in both .mtx file and .sim file.
+
 
