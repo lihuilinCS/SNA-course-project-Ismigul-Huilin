@@ -1,1 +1,1 @@
-# SNA-course-project-with-Ismigul
+# SNA-course-project-(Ismigul Islak and Huilin Li)
