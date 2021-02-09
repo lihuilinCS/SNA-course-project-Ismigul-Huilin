@@ -6,5 +6,5 @@ We remotely run OO and BL on 12 large graphs on lab computer.
 
 Plot layout locally.
 
-Run glam too on macOS system.
+Run glam tool on macOS system.
 
